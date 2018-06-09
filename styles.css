@@ -1,4 +1,40 @@
-.logo 
-{
+.logo {
   display:inline-block
+}
+
+.header-button {
+
+}
+.header-button header-button_black {
+
+}
+
+.search-form {
+
+}
+.search-form__search-icon {
+
+}
+.search-form__search-input {
+width: 100%;
+}
+.restname {
+
+}
+.input-title { 
+
+}
+.when__input {
+width: 100%;
+
+}
+.where__input {
+width: 100%;
+
+}
+.rest-img {
+  width: 100%;
+}
+.rest-name {
+  width: 100%;
 }
